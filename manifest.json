@@ -1,0 +1,67 @@
+{
+    "name": "Material Dark Theme",
+    "version": "1.0",
+    "description": "A minimalistic material dark theme.",
+    "manifest_version": 2,
+    "theme": {
+        "colors": {
+            "frame": [
+                32,
+                33,
+                36
+            ],
+            "frame_inactive": [
+                60,
+                64,
+                67
+            ],
+            "frame_incognito": [
+                32,
+                33,
+                36
+            ],
+            "frame_incognito_inactive": [
+                60,
+                64,
+                67
+            ],
+            "tab_text": [
+                241,
+                243,
+                244
+            ],
+            "tab_background_text": [
+                154,
+                160,
+                166
+            ],
+            "bookmark_text": [
+                241,
+                243,
+                244
+            ],
+            "ntp_background": [
+                30,
+                30,
+                30
+            ],
+            "ntp_text": [
+                255,
+                255,
+                255
+            ],
+            "toolbar": [
+                50,
+                54,
+                57
+            ]
+        },
+        "tints": {
+            "buttons": [
+                -1,
+                -1,
+                0.85
+            ]
+        }
+    }
+}
